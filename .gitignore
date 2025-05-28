@@ -2,5 +2,5 @@
 __pycache__/
 .env
 *.csv
-datos/salida/
+etl_videos_ia/datos/salida/
 .venv
